@@ -3,3 +3,19 @@ cd multi-repo-endpoint
 python3 -m venv venv
 source venv/bin/activate
 pip install Flask
+
+# Instructions to run the Flask application
+# 1. Navigate to the `multi-repo-endpoint` directory:
+#     ```bash
+#     cd multi-repo-endpoint
+#     ```
+#
+# 2. Activate the virtual environment:
+#     ```bash
+#     source venv/bin/activate
+#     ```
+#
+# 3. Run the Flask application:
+#     ```bash
+#     python app.py
+#     ```
